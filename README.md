@@ -1,12 +1,12 @@
 # Hi, I'm Balaji 👋
 
-### AI & Machine Learning Engineer | Generative AI | Applied AI
+### Data Scientist | Machine Learning | Exploring AI & Generative AI
 
-I am an AI and Machine Learning Engineer passionate about developing intelligent applications, predictive systems, and data-driven solutions to solve real-world problems.
+I'm a Data Scientist passionate about transforming data into meaningful insights and building intelligent, data-driven solutions to real-world problems.
 
-My interests include Machine Learning, Deep Learning, Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI systems.
+With an interest in Machine Learning and Predictive Analytics, I'm expanding my expertise into Artificial Intelligence, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI systems.
 
-I focus on building practical projects, exploring emerging AI technologies, and continuously improving my engineering skills.
+I enjoy exploring emerging technologies, developing practical projects, and combining Data Science with AI to build smarter applications.
 
 ---
 
@@ -16,28 +16,40 @@ I focus on building practical projects, exploring emerging AI technologies, and 
 - Python
 - SQL
 
-**Machine Learning & Data Science**
-- Scikit-learn
-- XGBoost
+**Data Science & Analytics**
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Exploratory Data Analysis
+- Data Cleaning and Feature Engineering
+- Statistical Analysis
 
-**Generative AI & LLM Engineering**
+**Machine Learning**
+- Scikit-learn
+- XGBoost
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Gradient Boosting
+- Model Evaluation
+- Predictive Analytics
+
+**Artificial Intelligence & Generative AI**
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - LangChain
 - LangGraph
 - Prompt Engineering
 - AI Agents
+- Gemini API
 
 **Explainable AI**
 - SHAP
-- Model Evaluation
 - Feature Importance
+- Model Interpretability
 
-**Cloud & Development**
+**Tools & Platforms**
 - AWS
 - Google Colab
 - Jupyter Notebook
@@ -50,7 +62,7 @@ I focus on building practical projects, exploring emerging AI technologies, and 
 
 ### 1. Advanced Customer Churn Prediction & Retention Intelligence System
 
-A Machine Learning project designed to predict telecommunications customer churn, identify customer risk categories, explain model predictions, and generate retention recommendations.
+A Machine Learning project focused on predicting telecommunications customer churn, identifying high-risk customers, interpreting model predictions, and supporting data-driven retention strategies.
 
 **Key components:**
 - Exploratory Data Analysis
@@ -58,53 +70,52 @@ A Machine Learning project designed to predict telecommunications customer churn
 - Logistic Regression, Decision Tree, Random Forest, Gradient Boosting and XGBoost
 - Customer churn probability prediction
 - SHAP-based Explainable AI
-- Customer retention recommendations
-- Expected monthly charges at risk analysis
+- Customer risk identification
+- Retention strategy recommendations
+- Revenue risk analysis
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Google Colab.
 
----
-
 ### 2. Enterprise RAG Intelligent Knowledge Assistant
 
-An AI project focused on building an intelligent knowledge assistant using Retrieval-Augmented Generation.
+An AI project exploring how Large Language Models and Retrieval-Augmented Generation can provide intelligent, context-aware answers from document-based knowledge sources.
 
 **Core areas:**
 - Document-based knowledge retrieval
-- LLM integration
 - Semantic search
+- LLM integration
 - Context-aware response generation
+- Retrieval-Augmented Generation architecture
 
 **Technologies:** Python, Gemini, RAG, LLMs.
 
----
-
 ### 3. Machine Learning & Predictive Analytics Projects
 
-Exploring practical Machine Learning applications, predictive modelling, data analysis, and intelligent decision-support systems.
+Exploring practical applications of Machine Learning, predictive modelling, data analysis, and intelligent decision-support systems.
 
 ---
 
 ## 🎯 Areas of Interest
 
+- Data Science and Advanced Analytics
 - Applied Artificial Intelligence
 - Machine Learning Engineering
-- Generative AI Engineering
+- Generative AI Applications
 - Agentic AI Systems
 - Retrieval-Augmented Generation
 - Large Language Model Applications
-- Predictive Analytics
 - Intelligent Automation
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Python for AI Engineering
+- Advanced Python for Data Science and AI
 - Advanced Machine Learning
+- Deep Learning
 - LangChain and LangGraph
 - Agentic AI Architectures
-- Google Cloud and AWS AI Services
+- Cloud-based AI Services
 - Production-ready AI applications
 
 ---
@@ -124,11 +135,11 @@ Exploring practical Machine Learning applications, predictive modelling, data an
 
 ---
 
-### 💡 My Engineering Philosophy
+## 💡 My Engineering Philosophy
 
-*Learn continuously. Build intelligently. Innovate responsibly.*
+*Understand Data. Explore Intelligence. Build with AI.*
 
-I believe in using Artificial Intelligence and Machine Learning to create practical solutions that deliver measurable value.
+I believe in continuously learning, experimenting with emerging technologies, and using Data Science and Artificial Intelligence to create practical solutions that make a meaningful impact.
 
 <!--
 **balajiravi12122000-cyber/balajiravi12122000-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
